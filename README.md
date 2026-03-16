@@ -1,16 +1,14 @@
 ## Project Overview
 
-In this video tutorial, you will build the [Holy Grail](https://en.wikipedia.org/wiki/Holy_grail_(web_design)) CSS Layout using CSS Grid.
+I built the Holy Grail CSS Layout using CSS Grid as part of the [#fullstackroadmap series](https://www.zachgollwitzer.com/posts/2021/fullstack-developer-series/introduction/), which takes a person from a complete beginner (no coding experience) to deploy a first full-stack E-Commerce app with ReactJS.
 
-You can see the [final version here](https://zachgoll.github.io/holy-grail-css-layout/).
+You can see the [final version here](https://ktran25-bit.github.io/holy-grail-css-layout/).
 
-You can see the solution to this challenge on the [Github Pages branch](https://github.com/zachgoll/holy-grail-css-layout/tree/gh-pages) of this repository.
-
-This is part of my [#fullstackroadmap series](https://www.zachgollwitzer.com/posts/2021/fullstack-developer-series/introduction/), which will take you from a complete beginner (no coding experience) to deploying your first full-stack E-Commerce app with ReactJS.
+You can see the solution to this challenge on the [Github Pages branch](https://github.com/zachgoll/holy-grail-css-layout/tree/gh-pages) of the owner's original repository.
 
 ## Instructions
 
-To build this, you will need two things:
+To build this layout, I used two sources from zachgollwitzer:
 
-- [YouTube Video]() (coming soon) - I suggest watching this video _at least_ until you complete the layout of this design.
-- [Style Guide](./style-guide.md) - Here, you will find fonts, colors, and other style resources to assist you while building.
+- [YouTube Video] - Watched this video _at least_ until I completed the layout of this design.
+- [Style Guide](./style-guide.md) - Here, I found fonts, colors, and other style resources to assist me while building.
